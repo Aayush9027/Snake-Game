@@ -1,28 +1,42 @@
-# SNAKE Game with C++ openGL
+# SNAKE 🐍 : Snake Game using C++ & OpenGL/GLUT
 A  desktop stylized version of snake game made from scratch in C++/OpenGL.
 This is the same snake game we all played in our childhood .
 
-## Skills
+## How to play:
+You will have to download  project1.exe to play the game. 
+
+## RULES📝: 
+#### 1. Your score increases (+1) with each food(🍎) the snake eats. (MAXIMUM = 60)
+#### 2. If the snake hits itself or in the WALL the game is over.
+#### 3. The level increases after each food is eaten as more you eat the food , the bigger you become.
+
+## Gaming Controls 🎮:
+#### Use the following keys:
+#### 1. ⇨ for moving RIGHT
+#### 2. ⇧ for moving UP
+#### 3. ⇩ for moving DOWN
+#### 4. ⇦ for moving LEFT
+
+## Skills:
 * C++ 
 * OpenGL-freeglut
 
-## Prerequisites
-- You should install MINGW Compiler for C++ Programming.
+## Prerequisites:
+- gcc/g++ >= 5.4
+
+  * Linux: gcc / g++ is installed by default on most Linux distros
+  * Mac: same deal as make - [install Xcode command line tools](https://developer.apple.com/xcode/features/)
+  * Windows: recommend using [MinGW](http://www.mingw.org/)
+
 - CODEBLOCKS-IDE
 
-## RULES : 
-* Main objective is to eat the food.
-* Use UP(^), DOWN(v), RIGHT(>), and LEFT(<) arrow keys to move your snake.
-* Try neither to CRASH with the WALLS nor with your BODY.
-* The more you eat the prey, your score increases and the bigger you become.
-
-## Note  
+## Note:  
 Feel free to file a new issue with a respective title and description on the **SNAKE_CPP**.  If you already found a solution to your problem, I would love to review your pull request! 
 
-## Installation and Contribution
+## Installation and Contribution:
 1. Clone the repository 
 ```
-
+https://github.com/Aayush9027/SNAKE_CPP.git
 ```
 2. Check the status of your file 
 ```
