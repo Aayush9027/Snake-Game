@@ -21,7 +21,7 @@ This is the same snake game we all played in our childhood .
 #### 3. ⇩ for moving DOWN
 #### 4. ⇦ for moving LEFT
 
-## Skills:
+## Skills 💪:
 * C++ 
 * OpenGL-freeglut
 
