@@ -3,7 +3,11 @@ A  desktop stylized version of snake game made from scratch in C++/OpenGL.
 This is the same snake game we all played in our childhood .
 
 ## How to play:
-You will have to download  project1.exe to play the game. 
+* You will have to download project1.exe to play the game.
+* To run the .exe file without error, You have to download [FreeGlut.dll](https://drive.google.com/file/d/1zcxh1M0Ek9rwis6WUbqcdNwDHdkF4S-C/view?usp=sharing)
+* After downloading the dll file , paste this file according to your computer architecture
+   * If 64-bit architecture then paste the file in C:\Windows\SysWOW64\
+   * IF 32-bit architecture then paste the file in C:\Windows\System32\ 
 
 ## RULES📝: 
 #### 1. Your score increases (+1) with each food(🍎) the snake eats. (MAXIMUM = 60)
@@ -36,7 +40,7 @@ Feel free to file a new issue with a respective title and description on the **S
 ## Installation and Contribution:
 1. Clone the repository 
 ```
-https://github.com/Aayush9027/SNAKE_CPP.git
+$git clone https://github.com/Aayush9027/SNAKE_CPP.git
 ```
 2. Check the status of your file 
 ```
