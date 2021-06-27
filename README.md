@@ -35,7 +35,7 @@ This is the same snake game we all played in our childhood .
 - CODEBLOCKS-IDE
 
 ## Note:  
-Feel free to file a new issue with a respective title and description on the **SNAKE_CPP**.  If you already found a solution to your problem, I would love to review your pull request! 
+Feel free to file a new issue with a respective title and description on the **SNAKE-Game**.  If you already found a solution to your problem, I would love to review your pull request! 
 
 ## Contribution:
 1. Clone the repository 
